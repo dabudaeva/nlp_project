@@ -19,3 +19,5 @@
    - Произвольная задача:
       - Саммаризация текста: пользователь вводит большой текст, модель делает саммари (huggingface → models → summarization)
       - Ответ на вопрос: пользователь вводит вопрос и контекст (в котором есть ответ) – модель пытается ответить на вопрос (huggingface → model → question answering)
+
+__Датасеты__: [link](https://drive.google.com/drive/folders/1o4Uzyt9I-pR4TBmo_Tmc_z0QGRXG7nKZ?usp=sharing)
